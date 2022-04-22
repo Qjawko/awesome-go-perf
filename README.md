@@ -63,6 +63,7 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 ## IO
 
 - [preallocate](https://github.com/smallnest/preallocate) - File preallocation library
+- [ringbuffer](https://github.com/smallnest/ringbuffer) - Ringbuffer structure implementation
 
 ## Math
 
