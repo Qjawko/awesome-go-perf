@@ -98,3 +98,4 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 ## Other
 
 - [templexxx/tsc](https://github.com/templexxx/tsc) - Get unix time (nanoseconds) in 8ns, 10x faster than stdlib.
+- [wuid](https://github.com/edwingeng/wuid) - Extremely fast unique number generator
